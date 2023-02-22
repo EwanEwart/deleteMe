@@ -1,0 +1,5 @@
+# ignore builds
+*.exe
+*.obj
+*.[oa] // no .o or .a files, please
+*~ // no files ending in ~
